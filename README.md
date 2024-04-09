@@ -1,7 +1,7 @@
 
 # ENGENHARIA DE REQUISITOS
 ## Engenharia de Requisitos o que é ?
-_É uma parte da engenharia de software que cuida de entender o que um software precisa fazer. Isso envolve: _
+_É uma parte da engenharia de software que cuida de entender o que um software precisa fazer. Isso envolve:_
 
 **Descobrir necessidades:** Conversar com usuários para saber o que eles querem do software.
 **Definir requisitos:** Colocar no papel tudo que o software precisa fazer, suas funções e limitações.

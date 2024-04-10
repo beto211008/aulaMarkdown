@@ -22,10 +22,11 @@ _É uma parte da engenharia de software que cuida de entender o que um software 
 | N° UC | Nome da UC         | Descrição                               |
 |-------|--------------------|-----------------------------------------|
 | UC-1  | Anúncios           | Acessar os Anúncios da OLX              |
-| UC-2  | Notificações       | Ativar/desativar as notificações do APP |
-| UC-3  | Gestão de contatos | Administrar seus contatos na OLX        |
-| UC-4  | Chat               | Falar com assistente da OLX             |
-| UC-5  | Favoritos          | Acessar seus produtos favoritos         |
-| UC-6  | Minha conta        | Editar seu perfil                       |
+| UC-2  | Inserir Anúncio    | Criar um Anúncio na OLX                 |
+| UC-3  | Notificações       | Ativar/desativar as notificações do APP |
+| UC-4  | Gestão de contatos | Administrar seus contatos na OLX        |
+| UC-5  | Chat               | Falar com assistente da OLX             |
+| UC-6  | Favoritos          | Acessar seus produtos favoritos         |
+| UC-7  | Minha conta        | Editar seu perfil                       |
 
 
